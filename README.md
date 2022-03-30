@@ -1,2 +1,5 @@
 # MyNotes
-test
+[test](./Linux/Linux_list.md)
+
+
+
