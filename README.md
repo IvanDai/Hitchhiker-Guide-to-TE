@@ -12,9 +12,10 @@ Don‘t Panic! You'll eventually know what <kbd>42</kbd> stands for
 
 - 经典通信理论
 
-- 通信原理系列
-- 信号与系统系列
-- 信息论系列
+  - 通信原理系列
+
+  - 信号与系统系列
+  - 信息论系列
 
 * 硬件开发
 
