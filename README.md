@@ -9,9 +9,9 @@ Don‘t Panic! You'll eventually know what <kbd>42</kbd> stands for
 目前&即将涵盖的内容概览⬇️
 
 * 经典通信理论（TODO）
-  - 
+  - 1
 * 硬件开发
-  - 
+  - 1
 * 机器学习
 * C&C++基础
 * Python基础
